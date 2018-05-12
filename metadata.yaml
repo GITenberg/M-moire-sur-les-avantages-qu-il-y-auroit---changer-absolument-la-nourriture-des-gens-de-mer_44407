@@ -1,0 +1,45 @@
+_repo: M-moire-sur-les-avantages-qu-il-y-auroit---changer-absolument-la-nourriture-des-gens-de-mer_44407
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44407-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Poissonnier-Desperrières, Antoine
+    aliases:
+    - Poissonier des Perrières (Antoine)
+    - Poissonnier-Desperrieres, Antoine
+    birthdate: 1722
+    deathdate: 1793
+    gutenberg_agent_id: '42738'
+    url: http://www.gutenberg.org/2009/agents/42738
+  - agent_name: La Coudraye, chevalier de
+    aliases:
+    - La Coudraye, Francois-Celestin de Loynes-Barraud, chevalier de
+    - De La Coudraye, chevalier
+    - Lacoudraye, François Célestin de Loynes, chevalier de
+    - Coudraye, François-Célestin de Loynes la
+    - La Coudraye, François-Célestin de Loynes-Barraud, chevalier de
+    deathdate: 1815
+    gutenberg_agent_id: '42739'
+    url: http://www.gutenberg.org/2009/agents/42739
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2013-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44407'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Naval hygiene'
+- !lcsh 'Medicine, Naval'
+- !lcsh 'Sailors -- Diet'
+- !lcsh 'Sailors -- Diseases'
+- !lcsh 'Sailors -- Health and hygiene'
+- !lcc 'VG'
+title: Mémoire sur les avantages qu'il y auroit à changer absolument la nourriture
+  des gens de mer
+url: http://www.gutenberg.org/ebooks/44407
